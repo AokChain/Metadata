@@ -1,0 +1,24 @@
+{
+	"name": "Mjölnir",
+	"description": "Mjölnir is the hammer of the thunder god Thor in Norse mythology, used both as a devastating weapon and as a divine instrument to provide blessings.",
+	"image": "ipfs://QmeJPx9UpmyZ4536oSp4cNb9C1aSX4PzT8n9mrYppQ2KrN",
+	"properties": {
+		"simple_property": "example value",
+		"rich_property": {
+			"name": "Name",
+			"value": "123",
+			"display_value": "123 Example Value",
+			"class": "emphasis",
+			"css": {
+				"color": "#ffffff",
+				"font-weight": "bold",
+				"text-decoration": "underline"
+			}
+		},
+		"array_property": {
+			"name": "Name",
+			"value": [1,2,3,4],
+			"class": "emphasis"
+		}
+	}
+}
